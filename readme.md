@@ -119,7 +119,7 @@ This is a work in progress, so subscribe and please leave feedback.
 
 ####1.0.0
 
-* Added darker version of the map: training_aim_csgo2_dark.'
+* Added darker version of the map: training_aim_csgo2_dark.
 * Added all required materials to Github.
 
 ----
