@@ -1,5 +1,5 @@
 #training_aim_csgo2
-##Current release: 0.3.6
+##Current release: 1.0.0
 
 For the past few months I've been training on kataS' famous training_aim_csgo map.
 There were a lot of gameplay and graphical bugs that I wanted to address. 
@@ -117,6 +117,11 @@ This is a work in progress, so subscribe and please leave feedback.
 #####Gameplay
 * Added CZ75 Auto to shooting board. 
 
+####1.0.0
+
+* Added darker version of the map: training_aim_csgo2_dark.'
+* Added all required materials to Github.
+
 ----
 
 ###To Download on Github (for dev usage):
@@ -127,28 +132,17 @@ Copy the csgo folder to
 Then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
 "C:\Program Files (x86)\Steam\SteamApps\common\Counter*Strike Global Offensive\sdk_content\maps"
 
-----
-
-###Planned features
-* Being able to change shooting wall texture
-* Being able to change brightness
-* ~~New weapons board texture~~
-* Possibly new rooms, etc
-* Better lighting
-* New shooting modes
-* Control over bullet decals
-* Being able to toggle infinite ammo modes
-* More bugfixes
 
 ----
 
 ###Links
 
-[Youtube](http://www.youtube.com/watch?v=qS8DWKxMPCk&list=PLie_jw7Bdb2FOZjoKQTGWLtwnICY8Glnr&index=4"Youtube")
+[Workshop: training_aim_csgo2 (bright)](http://steamcommunity.com/sharedfiles/filedetails/?id=241148414) 
 
-[training_aim_csgo](http://csgo.gamebanana.com/maps/168139"Gamebanana")
+[Workshop: training_aim_csgo2 (dark)](http://steamcommunity.com/sharedfiles/filedetails/?id=241148414)
 
-[Donate](http://tinyurl.com/donatecbt"Paypal")
+[Youtube: How to use training_aim_csgo2](http://www.youtube.com/watch?v=qS8DWKxMPCk&list=UUhxb0NGfOFS7zTq1mubs9qg)
+
 
 
 
