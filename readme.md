@@ -129,7 +129,7 @@ This is a work in progress, so subscribe and please leave feedback.
 Copy the csgo folder to
 "C:\Program Files (x86)\Steam\SteamApps\common\Counter Strike Global Offensive"
 
-Then, copy training_aim_csgo2_a1.vmf from the vmf folder in to
+Then, copy the vmfs from the vmf folder in to
 "C:\Program Files (x86)\Steam\SteamApps\common\Counter*Strike Global Offensive\sdk_content\maps"
 
 
